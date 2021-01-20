@@ -1,5 +1,6 @@
 public class Test {
     public static void main(String[] args) {
-        System.out.println("hello world 23");
+        //其它同事修改
+        System.out.println("hello world 66");
     }
 }
